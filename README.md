@@ -4,6 +4,12 @@
 
 Free automatic camera switching for RØDECaster Video.
 
+## Compatibility
+
+- Apple Silicon Mac
+- RØDECaster Video connected through its **USB 2** port
+- Wi-Fi and internet are not required for device control
+
 ## Download
 
 [Download CalmSwitch 0.1.0 for Apple Silicon](https://github.com/jannokurss/CalmSwitch/releases/download/v0.1.0/CalmSwitch_0.1.0_aarch64.dmg)
@@ -24,4 +30,18 @@ After trying to open CalmSwitch once, go to **System Settings → Privacy & Secu
 
 This beta is not Apple-notarized, which is why macOS shows this confirmation on first launch.
 
-Made by Janno Kurss in Tallinn, Estonia.
+## Privacy
+
+CalmSwitch does not upload audio, analytics or diagnostics. Session history and report statistics stay locally on your Mac.
+
+## Licence
+
+CalmSwitch is free software distributed under the [MIT Licence](LICENSE). Third-party components remain subject to their own terms listed in [Third-party notices](THIRD_PARTY_NOTICES.md).
+
+Copyright © 2026 Janno Kurss.
+
+## Support
+
+Made by Janno Kurss in Tallinn, Estonia. Questions and voluntary support: [Instagram @jannokurss](https://www.instagram.com/jannokurss/) or [jannokurss@gmail.com](mailto:jannokurss@gmail.com).
+
+CalmSwitch is an independent project and is not affiliated with, sponsored by or endorsed by RØDE. RØDE and RØDECaster are trademarks of their respective owner.
