@@ -16,6 +16,12 @@ Free automatic camera switching for RØDECaster Video.
 4. Close the official RØDECaster App and disable the console's own auto-switching.
 5. Open CalmSwitch and allow **Local Network** access when macOS asks.
 
-This beta is not Apple-notarized. On first launch, macOS may require **System Settings → Privacy & Security → Open Anyway**.
+## If macOS blocks the app
+
+After trying to open CalmSwitch once, go to **System Settings → Privacy & Security** and click **Open Anyway**.
+
+![Open CalmSwitch in macOS Privacy & Security](https://github.com/jannokurss/CalmSwitch/releases/download/v0.1.0/calmswitch-open-anyway.png)
+
+This beta is not Apple-notarized, which is why macOS shows this confirmation on first launch.
 
 Made by Janno Kurss in Tallinn, Estonia.
